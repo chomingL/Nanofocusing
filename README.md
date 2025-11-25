@@ -1,3 +1,7 @@
+
+## 🔵 environment.yml 
+此檔案為adjoint 優化運行環境
+
 ## Folder Naming Convention | 資料夾命名規則
 
 Simulation folders are named using the following pattern:
@@ -191,6 +195,8 @@ s_change002.png
 - 將結果輸出到上述三個資料夾
 
 整個專案的核心流程由此 py 檔啟動。
+
+
 
 
 
